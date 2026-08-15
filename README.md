@@ -4,6 +4,8 @@
 
 2026届数据科学与大数据技术本科，现居成都。当前持续完善面向企业场景的知识库问答与智能工作流项目。
 
+> 求职方向：AI应用开发、Python后端（AI方向），可立即到岗。
+
 ## 代表项目
 
 ### [MailPilot｜企业邮件与日程协同Agent](https://github.com/dejin-chen/mailpilot)
